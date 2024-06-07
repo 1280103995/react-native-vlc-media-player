@@ -1,0 +1,16 @@
+current directory: /Users/fjliang/Desktop/react-native-vlc-media-player/example/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/fjliang/.rbenv/versions/2.7.6/bin/ruby -I /Users/fjliang/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20240531-43141-1oy9pou.rb extconf.rb
+creating Makefile
+
+current directory: /Users/fjliang/Desktop/react-native-vlc-media-player/example/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/fjliang/Desktop/react-native-vlc-media-player/example/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/fjliang/Desktop/react-native-vlc-media-player/example/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240531-43141-9q1s2m

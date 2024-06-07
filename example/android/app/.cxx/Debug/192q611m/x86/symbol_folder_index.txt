@@ -1,0 +1,1 @@
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/build/intermediates/cxx/Debug/192q611m/obj/x86

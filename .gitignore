@@ -117,7 +117,10 @@ dist
 # Android
 .gradle
 build/
+example/android/build
+example/android/local.properties
 
 # MacOS
 .DS_Store
+example/ios/Pods
 

@@ -1,0 +1,9 @@
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/CMakeFiles/appmodules.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/CMakeFiles/edit_cache.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/CMakeFiles/rebuild_cache.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/rnvlcplayer_autolinked_build/CMakeFiles/react_codegen_rnvlcplayer.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/rnvlcplayer_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/rnvlcplayer_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/RNCSlider_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/fjliang/Desktop/react-native-vlc-media-player/example/android/app/.cxx/Debug/192q611m/x86/RNCSlider_autolinked_build/CMakeFiles/rebuild_cache.dir

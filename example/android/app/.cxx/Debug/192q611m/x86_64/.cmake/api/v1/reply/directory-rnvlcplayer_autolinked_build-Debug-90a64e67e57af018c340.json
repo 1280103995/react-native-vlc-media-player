@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rnvlcplayer_autolinked_build",
+		"source" : "/Users/fjliang/Desktop/react-native-vlc-media-player/android/build/generated/source/codegen/jni"
+	}
+}

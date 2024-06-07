@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/42ee1b31797d01b198ded81ec48f074f/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/42ee1b31797d01b198ded81ec48f074f/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/fabricjni/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/fabricjni/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/folly_runtime/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/folly_runtime/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/glog/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/glog/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/jsi/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/jsi/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_codegen_rncore/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_codegen_rncore/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_cxxreactpackage/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_cxxreactpackage/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_debug/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_debug/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_nativemodule_core/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_nativemodule_core/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_newarchdefaults/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_newarchdefaults/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_componentregistry/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_componentregistry/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_core/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_core/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_debug/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_debug/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_graphics/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_graphics/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_imagemanager/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_imagemanager/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_mapbuffer/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_mapbuffer/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_textlayoutmanager/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_render_textlayoutmanager/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_utils/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/react_utils/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_image/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_image/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_legacyviewmanagerinterop/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_legacyviewmanagerinterop/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_text/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_text/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_textinput/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_textinput/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_view/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/rrc_view/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/runtimeexecutor/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/runtimeexecutor/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/turbomodulejsijni/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/turbomodulejsijni/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/yoga/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-4/e5b57f16c7e0461b8ffc655e3c736199/transformed/jetified-react-android-0.74.1-debug/prefab/modules/yoga/include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../android/build/generated/source/codegen/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../android/build/generated/source/codegen/jni" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/rncli/src/main/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/rncli/src/main/jni" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules" type="native-Source-root" />
+    </content>
+  </component>
+</module>
